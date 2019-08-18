@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ScientLab</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_register">Register</string>
+    <string name="menu_showProject">Your Project</string>
+    <string name="menu_contactUs">Contact Us</string>
+    <string name="title_activity_register">Register Project</string>
+    <string name="title_activity_show_project">Your Project</string>
+    <string name="title_activity_contact_us">Contact Us</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="ah_tv_about">SCIEnT is a multi-disciplinary innovation centre, providing opportunities
+        to students to delve into the ever expanding world of technology, and discover, hands on, the
+        incredible scope for innovation that the world offers today. The lab allows students to
+        explore and experiment with technology, without having to deal with the fear and cost of
+        failure. At SCIEnT, students are offered a multitude of tools, machines, consumables
+        and services, and a space in which to work, learn and grow.</string>
+    <string name="title_activity_main">About Us</string>
+</resources>
